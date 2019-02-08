@@ -5,4 +5,4 @@ Collection of data analysis projects done by me.
 
 - Handwashing Data analysis : [Link](https://nbviewer.jupyter.org/github/NIteshx2/Data-Analysis/blob/master/HandWashing/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)
 
-- Lego Data across the years : [Link](https://github.com/NIteshx2/Data-Analysis/blob/master/LegoData/Exploring%2067%20years%20of%20LEGO/notebook.ipynb)
+- Lego Data across the years : [Link](https://nbviewer.jupyter.org/github/NIteshx2/Data-Analysis/blob/master/LegoData/Exploring%2067%20years%20of%20LEGO/notebook.ipynb)
