@@ -12,3 +12,5 @@ Use this website to view any notebook in your browser :
 - Bitcoin and other cryptocurrencies : [Link](https://nbviewer.jupyter.org/github/NIteshx2/Data-Analysis/blob/master/CryptoCurrencies%20Data/Exploring%20the%20Bitcoin%20cryptocurrency%20market/notebook.ipynb)
 
 - Gender prediction using the way a name sounds : [Link](https://nbviewer.jupyter.org/github/NIteshx2/Data-Analysis/blob/master/Gender%20prediction%20using%20sound/Name%20Game_%20Gender%20Prediction%20using%20Sound/notebook.ipynb)
+
+Built with :heart: by Nitesh Chaudhry.
