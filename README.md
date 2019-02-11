@@ -16,4 +16,4 @@ Use this website to view any notebook in your browser :
 
 - Gender prediction using the way a name sounds : [Link](https://nbviewer.jupyter.org/github/NIteshx2/Data-Analysis/blob/master/Analyzed-Notebooks/Gender%20prediction%20using%20sound/Name%20Game_%20Gender%20Prediction%20using%20Sound/notebook.ipynb)
 
-Built on python :snake: by Nitesh Chaudhry.
+Built on python :snake: with :heart: by Nitesh Chaudhry.
