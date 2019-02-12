@@ -1,7 +1,7 @@
 # Data-Analysis
 Collection of data analysis projects done by me.
 
-Use this website to view any notebook in your browser :
+Use [this](https://nbviewer.jupyter.org) website to view any notebook in your browser :
 
 ### You can access the well-formatted notebooks by following the links given.
 
@@ -15,5 +15,7 @@ Use this website to view any notebook in your browser :
 
 
 - Gender prediction using the way a name sounds : [Link](https://nbviewer.jupyter.org/github/NIteshx2/Data-Analysis/blob/master/Analyzed-Notebooks/Gender%20prediction%20using%20sound/Name%20Game_%20Gender%20Prediction%20using%20Sound/notebook.ipynb)
+
+- Hottest topics in machine learning by year( Using text data from machine learning papers) : [Link](https://nbviewer.jupyter.org/github/NIteshx2/Data-Analysis/blob/master/Analyzed-Notebooks/The%20Hottest%20Topics%20in%20Machine%20Learning/notebook.ipynb)
 
 Built on python :snake: with :heart: by Nitesh Chaudhry.
