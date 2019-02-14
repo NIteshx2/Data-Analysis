@@ -18,4 +18,10 @@ Use [this](https://nbviewer.jupyter.org) website to view any notebook in your br
 
 - Hottest topics in machine learning by year( Using text data from machine learning papers & NLP) : [Link](https://nbviewer.jupyter.org/github/NIteshx2/Data-Analysis/blob/master/Analyzed-Notebooks/The%20Hottest%20Topics%20in%20Machine%20Learning/notebook.ipynb)
 
+
+
+# On kaggle
+- FIFA18 players data EDA : https://www.kaggle.com/niteshx2/fifa18-best-players-and-clubs
+
+
 Built on python :snake: with :heart: by Nitesh Chaudhry.
