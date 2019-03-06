@@ -24,4 +24,6 @@ Use [this](https://nbviewer.jupyter.org) website to view any notebook in your br
 - FIFA18 players data EDA : https://www.kaggle.com/niteshx2/fifa18-best-players-and-clubs
 
 
+I'll be adding NLP notes soon !
+
 Built on python :snake: with :heart: by Nitesh Chaudhry.
