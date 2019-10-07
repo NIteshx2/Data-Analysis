@@ -27,3 +27,4 @@ Use [this](https://nbviewer.jupyter.org) website to view any notebook in your br
 I'll be adding NLP notes soon !
 
 Built on python :snake: with :heart: by Nitesh Chaudhry.
+Last update : Oct 7
